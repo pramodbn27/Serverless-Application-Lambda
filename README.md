@@ -17,3 +17,12 @@ Permissions:
 2. DynamoDB Full Access
 
 ```
+
+## Step 3: Create Lambda Function
+
+```sh
+Function Name: registration-form-function
+Runtime: Python 3.9
+
+```
+
