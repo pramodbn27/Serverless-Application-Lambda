@@ -30,3 +30,6 @@ Runtime: Python 3.9
 
 ## Step 5: Create API Gateway and Enable CORS
 
+## Step 6: Test the Project
+
+
