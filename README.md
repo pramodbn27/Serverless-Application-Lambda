@@ -42,3 +42,4 @@ Access-Control-Allow-Methods: POST
 
 ```
 
+## Step 5: Test the Application
